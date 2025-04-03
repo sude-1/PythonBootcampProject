@@ -1,8 +1,7 @@
 #başlık
 Taş-Kağıt-Makas Oyunu
 
-#hakkında
-Aygaz Python Bootcamp programı için oluşturulmuş projedir
+
 
 #özellikler
 Oyun, bilgisayar ve oyuncunun karşılıklı taş kağıt makas oynaması üzerine kurulmuştur.
